@@ -1,3 +1,5 @@
 str="uditarora"
 rev=str[::-1]
 print("reverse of", str,"is",rev)
+
+a="hello"
